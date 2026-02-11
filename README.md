@@ -26,3 +26,8 @@ Ao final deve se exibir uma mensagem:
 "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
  
 Bons estudos 😉
+
+## Teste
+
+Digite no TERMINAL do VS CODE: node src\index.js
+(Obs: Necessário estar com o node instalado e funcionado para o VSCODE)
