@@ -29,5 +29,8 @@ Bons estudos 😉
 
 ## Teste
 
-Digite no TERMINAL do VS CODE: node src\index.js
+Digite no TERMINAL do VS CODE: 
+
+node src\index.js
+
 (Obs: Necessário estar com o node instalado e funcionado para o VSCODE)
